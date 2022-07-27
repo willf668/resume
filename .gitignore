@@ -1,4 +1,7 @@
 WillFarhatHighSchoolTranscript.pdf
 WillFarhatUnofficialHSTranscript.pdf
 WillFarhatUnofficialTranscript.pdf
-.~*
+*.~*
+*~*
+.DS_STORE
+exports/
